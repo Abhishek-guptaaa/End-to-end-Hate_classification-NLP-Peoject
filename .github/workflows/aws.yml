@@ -18,6 +18,8 @@ jobs:
         uses: aws-actions/amazon-ecr-login@v1
         with:
           mask-password: false
+          registry-type: private
+          skip-logout: false
 
         env:
           AWS_REGION: ${{ secrets.AWS_REGION }}
