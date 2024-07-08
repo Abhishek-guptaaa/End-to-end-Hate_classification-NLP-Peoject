@@ -60,7 +60,7 @@
 
     AWS_REGION = us-west-2
 
-    AWS_ECR_LOGIN_URI = demo>>  730335610052.dkr.ecr.us-east-1.amazonaws.com/deploy
+    AWS_ECR_LOGIN_URI = demo>>  730335610052.dkr.ecr.us-east-1.amazonaws.com/deploy:latest
 
     ECR_REPOSITORY_NAME = 
 
