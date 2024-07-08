@@ -58,11 +58,11 @@
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-west-2
+    AWS_REGION = us-east-1
 
     AWS_ECR_LOGIN_URI = demo>>  730335610052.dkr.ecr.us-east-1.amazonaws.com/deploy:latest
 
-    ECR_REPOSITORY_NAME = 
+    ECR_REPOSITORY_NAME = deploy
 
     
     
